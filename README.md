@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jarovleat
 - 👀 I’m interested in coding and travelling
-- 🌱 I’m currently learning python
 - 📫 How to reach me -> instagram: @juravlikkk
 
 <!---
